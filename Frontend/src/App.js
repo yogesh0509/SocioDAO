@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import HeaderPage from "./Components/HeaderPage";
 import Voting from "./Components/Voting";
